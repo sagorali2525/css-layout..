@@ -1,0 +1,258 @@
+
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* layout 1 */
+.container{
+    width: 80%;
+    margin: auto;
+    padding: 2px 0;
+}
+.sidebar-item-one.bg {
+    height: 380px;
+    margin-bottom: 30px;
+    width: 100%;
+    text-align: center;
+    line-height: 372px;
+    font-size: 30px;
+}
+.sidebar-item-two.bg {
+    height: 390px;
+    margin-bottom: 30px;
+    width: 100%;
+    text-align: center;
+    line-height: 372px;
+    font-size: 30px;
+}
+.titile h2 {
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ff3636;
+}
+.bg{
+    background-color: #bebebe;
+}  
+.logo{
+    height: 100px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    /* text-align: center; */
+    line-height: 96px;
+    font-size: 35px;
+    padding-left: 18px;
+    font-weight: 600;
+}
+.header{
+    height: 250px;
+    margin-bottom: 30px;
+    text-align: center;
+    line-height: 218px;
+    font-size: 35px;
+    font-weight: 600;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px -30px;
+}
+.nav-item{
+    height: 50px;
+    width: 300px;
+    margin: 0 30px;
+}
+.about{
+    height: 800px;
+    width: 55%;
+}
+.sidebar{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    line-height: 67px;
+    font-size: 29px;
+    padding-left: 0px;
+    font-weight: 600;
+}
+.sidebar-one{
+    height: 390px;
+    margin-bottom: 0px;
+    width: 40%;
+    text-align: center;
+    line-height: 375px;
+    font-size: 36px;
+    font-weight: 600;
+}
+.sidebar-two{
+    height: 390px;
+    width: 40%;
+    /* padding: 0 2px; */
+    margin: 0 31px;
+    text-align: center;
+    line-height: 375px;
+    font-size: 36px;
+    font-weight: 600;
+}
+.about-content {
+    display: flex;
+    justify-content: space-between;
+    /* padding-bottom: 27px; */
+}
+.about.bg {
+    text-align: center;
+    line-height: 760px;
+    font-size: 35px;
+    font-weight: 600;
+}
+.footer{
+    height: 250px;
+    margin-bottom: 30px;
+    text-align: center;
+    line-height: 263px;
+    font-size: 35px;
+    font-weight: 600;
+}
+.sidebar-three.bg {
+    height: 660px;
+    width: 100%;
+    text-align: center;
+    line-height: 622px;
+    font-size: 35px;
+    font-weight: 600;
+    /* margin-left: 173px; */
+}
+.about-two.bg {
+    height: 660px;
+    width: 55%;
+    text-align: center;
+    line-height: 624px;
+    font-size: 35px;
+    font-weight: 600;
+}
+.navigation-one.bg {
+    height: 70px;
+    width: 100%;
+    margin: 30px 0;
+    text-align: center;
+    line-height: 67px;
+    font-size: 29px;
+    font-weight: 600;
+}
+.footer-two.bg {
+    height: 70px;
+    width: 100%;
+    margin: 2px 0;
+    /* padding-top: 0px; */
+    margin-top: 25px;
+    text-align: center;
+    line-height: 67px;
+    font-size: 29px;
+    font-weight: 600;
+}
+/* layout 3 */
+.navigation-three.bg {
+    height: 130px;
+    width: 100%;
+    margin: 30px 0;
+    text-align: center;
+    line-height: 120px;
+    font-size: 29px;
+    font-weight: 600;
+}
+.sidebar-thrree.bg {
+    height: 390px;
+    width: 40%;
+    text-align: center;
+    line-height: 375px;
+    font-size: 36px;
+    font-weight: 600;
+}
+.sidebar-nine {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* layout 3 */ 
+
+
+/* layout 4 */ 
+.header-four.bg {
+    width: 100%;
+    height: 260px;
+    text-align: center;
+    line-height: 251px;
+    font-size: 32px;
+    font-weight: 600;
+}
+.body-four.bg {
+    width: 100%;
+    height: 500px;
+    margin-top: 24px;
+    margin-bottom: 0px;
+    text-align: center;
+    line-height: 460px;
+    font-size: 32px;
+    font-weight: 600;
+}
+.lauyout-four {
+    margin-left: 312px;
+}
+/* layout 4 */ 
+
+
+/* layout 5 */ 
+.navigation-five {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px -30px;
+}
+.nav-item-five {
+    height: 120px;
+    width: 300px;
+    margin: 0 30px;
+}
+.sidebar-eight {
+    height: 270px;
+    margin-bottom: 0px;
+    width: 40%;
+    text-align: center;
+    line-height: 270px;
+    font-size: 36px;
+    font-weight: 600;
+}
+.sidebar-five {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 0px;
+}
+.sidebar-six {
+    height: 270px;
+    width: 40%;
+    /* padding: 0 2px; */
+    margin: 0 31px;
+    text-align: center;
+    line-height: 270px;
+    font-size: 36px;
+    font-weight: 600;
+}
+.sidebar-seven.bg {
+    height: 270px;
+    width: 40%;
+    text-align: center;
+    line-height: 270px;
+    font-size: 36px;
+    font-weight: 600;
+}
+footer {
+    padding-bottom: 30px;
+}
+.logo span{
+    padding-left: 690px;
+}
+/* layout 5 */ 
